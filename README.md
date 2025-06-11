@@ -12,23 +12,7 @@ projects, collaborate with diverse teams, and drive meaningful technological ad
 - **Databases:** MySQL  
 - **Machine Learning:** TensorFlow, Keras, ANN, Decision Trees, Random Forest, Confusion Matrix  
 - **Methodologies:** Agile, SDLC  
-- **Networking & Security:** vSAN, Active Directory, Cloud Security  
-
-
-
-## Experience
-
-**Junior Cloud Engineer Intern**     
-- Configured and deployed Azure cloud infrastructure, including virtual networks, storage accounts, and compute resources.  
-- Built backend RESTful APIs and integrated Azure services to enhance system reliability and performance.  
-- Collaborated with solution architects to design secure and cost-optimized cloud environments.
-
-**Senior Analyst / Software Engineer**    
-- Managed hybrid cloud-based applications on Azure and AWS, improving availability by 30%.  
-- Automated infrastructure tasks with PowerCLI and Azure Resource Manager, reducing manual efforts by 40%.  
-- Collaborated on backend integration of Java-based APIs with modern front-end frameworks.  
-- Provided L3 support for critical infrastructure issues, resolving escalations within 24 hours.  
-- Led server upgrade initiatives and enforced security compliance, achieving 99.9% uptime.  
+- **Networking & Security:** vSAN, Active Directory, Cloud Security 
 
 
 ## Projects
