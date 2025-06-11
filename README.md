@@ -1,5 +1,5 @@
-Hello, I'm Jahnavi Sambaraju
-I am a Cloud and Backend Engineer with over 2 years of experience in building scalable infrastructure, automating cloud deployments, and developing robust backend solutions. I have a strong technical foundation in Java, Spring Boot, AngularJS, and Python, coupled with hands-on expertise across major cloud platforms including Azure, AWS, and Google Cloud Platform. I thrive in collaborative environments and am passionate about delivering high-performance, secure, and reliable systems.
+ ## Jahnavi Sambaraju
+Hello, I am a Cloud and Backend Engineer with over 2 years of experience in building scalable infrastructure, automating cloud deployments, and developing robust backend solutions. I have a strong technical foundation in Java, Spring Boot, AngularJS, and Python, coupled with hands-on expertise across major cloud platforms including Azure, AWS, and Google Cloud Platform. I thrive in collaborative environments and am passionate about delivering high-performance, secure, and reliable systems.
 I'm Passionate about developing AI-driven solutions and bridging intelligent systems with user-centric applications. Eager to contribute to innovative
 projects, collaborate with diverse teams, and drive meaningful technological advancements.
 
