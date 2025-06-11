@@ -18,14 +18,12 @@ projects, collaborate with diverse teams, and drive meaningful technological ad
 
 ## Experience
 
-**Junior Cloud Engineer Intern**  
-*Aditas Solutions, USA*   
+**Junior Cloud Engineer Intern**     
 - Configured and deployed Azure cloud infrastructure, including virtual networks, storage accounts, and compute resources.  
 - Built backend RESTful APIs and integrated Azure services to enhance system reliability and performance.  
 - Collaborated with solution architects to design secure and cost-optimized cloud environments.
 
-**Senior Analyst / Software Engineer**  
-*Capgemini Technology Services, Hyderabad, India*  
+**Senior Analyst / Software Engineer**    
 - Managed hybrid cloud-based applications on Azure and AWS, improving availability by 30%.  
 - Automated infrastructure tasks with PowerCLI and Azure Resource Manager, reducing manual efforts by 40%.  
 - Collaborated on backend integration of Java-based APIs with modern front-end frameworks.  
@@ -43,23 +41,6 @@ projects, collaborate with diverse teams, and drive meaningful technological ad
 - Built a machine learning model using Artificial Neural Networks to classify fake user profiles with 87% accuracy.  
 - Integrated the model into a web-based interface for real-time predictions and administrative insights.
 
-
-
-## Certifications
-
-- Microsoft Certified: Azure Administrator Associate
-
----
-
-## Education
-
-**University of Illinois Springfield, USA**  
-Master of Science in Computer Science (2023–2024)  
-Relevant Coursework: Advanced DBMS, Web Design, Data Visualization, Networking, Security Testing
-
-**Jawaharlal Nehru Technological University, Hyderabad, India**  
-Bachelor of Technology in Computer Science and Engineering (2017–2021)  
-Relevant Coursework: Data Structures, Algorithms, JAVA, Compiler Design, Operating Systems
 
 
 ## Contact
