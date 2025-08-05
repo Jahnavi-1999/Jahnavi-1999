@@ -1,7 +1,11 @@
  ## Jahnavi Sambaraju
-Hello, I am a Cloud and Backend Engineer with over 2 years of experience in building scalable infrastructure, automating cloud deployments, and developing robust backend solutions. I have a strong technical foundation in Java, Spring Boot, AngularJS, and Python, coupled with hands-on expertise across major cloud platforms including Azure, AWS, and Google Cloud Platform. I thrive in collaborative environments and am passionate about delivering high-performance, secure, and reliable systems.
-I'm Passionate about developing AI-driven solutions and bridging intelligent systems with user-centric applications. Eager to contribute to innovative
-projects, collaborate with diverse teams, and drive meaningful technological advancements.
+Hi, I’m Jahnavi Sambaraju — a Microsoft Certified: Azure Administrator Associate with around 3 years of professional experience in both cloud engineering and software development. I enjoy working at the intersection of technology and problem-solving, designing solutions that are not only reliable but also impactful.
+
+Over the course of my career, I’ve contributed to modernizing cloud infrastructure, developing cloud-native applications, and collaborating with teams to deliver secure and efficient systems. My approach blends technical precision with a focus on scalability and long-term sustainability.
+
+I’m also curious about Artificial Intelligence and how it can be integrated into cloud platforms to create smarter, more adaptive systems.
+
+When I’m not immersed in technology, I enjoy reading books and drawing activities that spark creativity and help me maintain balance.
 
 
 ## Technical Skills
