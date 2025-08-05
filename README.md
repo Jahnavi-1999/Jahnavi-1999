@@ -10,7 +10,7 @@ When I’m not immersed in technology, I enjoy reading books and drawing activit
 ## Technical Skills
 
 - **Languages:** Java, Python,R, SQL, HTML, CSS, JavaScript  
-- **Frameworks:** Spring Boot, Hibernate (basic), AngularJS, ReactJS  
+- **Frameworks:** Spring Boot, Hibernate (basic), ReactJS  
 - **Cloud Platforms:** Azure, AWS , VMWare (VMs, Storage, Networking)  
 - **Tools:** Git, PowerCLI, Visual Studio Code, Eclipse  
 - **Databases:** MySQL  
